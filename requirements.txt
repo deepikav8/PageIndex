@@ -1,5 +1,5 @@
-streamlit
+fastapi==0.110.0
+uvicorn==0.29.0
 pageindex
-openai
-requests
-python-dotenv
+python-dotenv==1.0.1
+requests==2.31.0
