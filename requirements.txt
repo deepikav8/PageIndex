@@ -1,0 +1,5 @@
+streamlit
+pageindex
+openai
+requests
+python-dotenv
